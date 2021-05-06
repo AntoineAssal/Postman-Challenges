@@ -103,7 +103,7 @@ Then the instructions for next steps:
             }
         ]
 ```
-4. Set up the API key as email client then resent the `POST` request.
+4. Set up the API key as email client then resend the `POST` request.
 
 Returns a mismatch error since data is empty.\
 Add this to body and resend.
