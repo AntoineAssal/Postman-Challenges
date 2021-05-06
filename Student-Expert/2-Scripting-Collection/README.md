@@ -32,7 +32,7 @@ this returns the instructions for next steps:
 2. ```https
    {{mock_url}}/players
    ```
-Returns an eror since no player is specified. So change it to :
+Returns an error since no player is specified. So change it to :
 ```https
 {{mock_url}}/player?id={{player_id}}
 ```
@@ -78,7 +78,7 @@ Returns stats data:
         "drew": 4
     },
 ```
-4. We need a testing script to verift that all fields are included in the array returned.
+4. We need a testing script to verify that all fields are included in the object returned.
 ```js
 pm.test('Status code is 200', function () {
     pm.response.to.have.status(200); 
