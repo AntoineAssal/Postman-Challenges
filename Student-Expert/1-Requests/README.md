@@ -155,3 +155,36 @@ The instructions for next steps:
             }
         ]
 ```
+5. Updating the newly added match with points so it's satus changes from `pending` to `played`
+```https
+{{training_api}}/match?match_id=pbOqhm-oY
+```
+With body
+```json
+{
+    "points" : 3
+}
+```
+The instructions for next steps:
+```json
+"next": [
+            {
+                "step": "Next create a final request in the folder, this time naming it `4. Remove match`. Open it and set the method to `DELETE`, and the URL to `{{training_api}}/match/:match_id`."
+            },
+            {
+                "step": "This request includes a path parameter with `/:match_id` at the end of the request address—open **Params** and as the value for the `match_id` parameter, enter the `id` of a match _you added_ during this session when you sent the `POST` request. Copy the `id` from the response in the `1. Get matches` request like you did for the `PUT` request then click **Send**."
+            }
+        ]
+```
+6. Deleting the newly added match.
+```https
+{{training_api}}/match/:match_id        
+```
+The instructions for next steps:
+```json
+"next": [
+            {
+                "step": "🎊🎉 You completed the first part of Postman Student Expert training! Next we're going to jump into the `2. Scripting and Collection Runs` folder—open the folder, open the first request, and hit **Send**! 🚀"
+            }
+        ]
+```
