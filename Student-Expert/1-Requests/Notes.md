@@ -46,9 +46,9 @@ Instead of using the same `base url` every time I can put that in a variable.
 
 5. ```json
    {
-       "points" : 5
+       "points" : 3
    }
-6. Sned the `PUT` request to update the value of specified match.
+6. Send the `PUT` request to update the value of specified match.
    
 ## DELETE
 1. Change method to `DELETE`
