@@ -12,10 +12,10 @@ The **Student Expert Challenge** is for students who want to learn `API` and `Po
 
 ## 🎯 Earning Criteria
 - Build and successfully send requests in `Postman` using a variety of methods including `GET`, `POST`, `PUT`, and `DELETE`. 
-- Include `query` and `path` parameters, `authorization`, and `body` `data` in requests.
+- Include `query` and `path` parameters, `authorization`, and `body data` in requests.
 - Declare and reference variables at different `scopes` in Postman including `environment` and `collection`.
 - Edit documentation for a collection.
-- Write a test `assertion` `script`.
+- Write a test `assertion script`.
 - Run a collection, passing data between requests, and `scripting` request execution order.
 
 ## 📜 My Notes
