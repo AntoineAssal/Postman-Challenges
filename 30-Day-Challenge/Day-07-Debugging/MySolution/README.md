@@ -1,13 +1,13 @@
 # Day 7 : Debugging
 
 ## The BuildUp
-Make a `GET` request called `apod`
+Make a `GET` request called `apod`:
 
 ```HTTPS
 https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&count=10
 ```
 
-Now we want to have a script to output the title of each image to console
+Now we need a script that logs the title of each image to the console:
 
 ```js
 let pics = pm.response.json()
