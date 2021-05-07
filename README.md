@@ -17,9 +17,9 @@
 | 02- Collections & Environments| [Challenge](/30-Day-Challenge/Day-02-Collections-and-Environments/README.md)| ✔️ |[My Solution](30-Day-Challenge/Day-02-Collections-and-Environments/MySolution/README.md)| Medium
 | 03- Add Request Details       |[Challenge](/30-Day-Challenge/Day-03-Add-request-details/README.md) | ✔️ |[My Solution](/30-Day-Challenge/Day-03-Add-request-details/MySolution/README.md) | Easy
 | 04- Authorization             |[Challenge](/30-Day-Challenge/Day-04-Authorization/README.md)| ✔️ |[My Solution](/30-Day-Challenge/Day-04-Authorization/MySolution/README.md) |Medium
-| 05- Variables                 |[Challenge](/30-Day-Challenge/Day-05-Variables/README.md) | ❌ | | Medium
-| 06- Tests                     |[Challenge](/30-Day-Challenge/Day-06-Tests/README.md) | ❌ | | Medium
-| 07- Debugging                 |[Challenge](/30-Day-Challenge/Day-07-Debugging/README.md) | ❌ | | Easy
+| 05- Variables                 |[Challenge](/30-Day-Challenge/Day-05-Variables/README.md) | ✔️ |[My Solution](/30-Day-Challenge/Day-05-Variables/MySolution/README.md) | Medium
+| 06- Tests                     |[Challenge](/30-Day-Challenge/Day-06-Tests/README.md) | ✔️ |[My Solution](/30-Day-Challenge/Day-06-Tests/MySolution/README.md) | Medium
+| 07- Debugging                 |[Challenge](/30-Day-Challenge/Day-07-Debugging/README.md) | ✔️ |[My Solution](/30-Day-Challenge/Day-07-Debugging/MySolution/README.md) | Easy
 | 08- Running Collections       |[Challenge](/30-Day-Challenge/Day-08-Running-Collections/README.md)| ❌ | |Medium
 | 09- Scripting                 |[Challenge](/30-Day-Challenge/Day-09-Scripting/README.md)| ❌ | | Medium
 | 10- Mock Servcies             |[Challenge](/30-Day-Challenge/Day-10-Mock-Services/README.md)| ❌ | | Easy
