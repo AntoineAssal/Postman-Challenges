@@ -6,8 +6,8 @@
 
 | Day & Challenge | Problem Statement   |  Status | Submission|
 |----------|:-------------:|:------:|----
-| 01- Forking                   |[Challenge](30-Day-Challenge/Day-01-Forking/README.md) | ✔️ |
-| 02- Collections & Environments| [Challenge](/30-Day-Challenge/Day-02-Collections-and-Environments/README.md)| ❌ |
+| 01- Forking                   |[Challenge](30-Day-Challenge/Day-01-Forking/README.md) | ✔️ |[My Solution](30-Day-Challenge/Day-01-Forking/MySolution/README.md)
+| 02- Collections & Environments| [Challenge](/30-Day-Challenge/Day-02-Collections-and-Environments/README.md)| ✔️ |[My Solution](30-Day-Challenge/Day-02-Collections-and-Environments/MySolution/README.md)
 | 03- Add Request Details       |[Challenge](/30-Day-Challenge/Day-03-Add-request-details/README.md) | ❌ |
 | 04- Authorization             |[Challenge](/30-Day-Challenge/Day-04-Authorization/README.md)| ❌ |
 | 05- Variables                 |[Challenge](/30-Day-Challenge/Day-05-Variables/README.md) | ❌ |
