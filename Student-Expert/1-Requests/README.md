@@ -155,7 +155,7 @@ The instructions for next steps:
             }
         ]
 ```
-5. Updating the newly added match with points so it's satus changes from `pending` to `played`
+5. Updating the newly added match with points so it's status changes from `pending` to `played`
 ```https
 {{training_api}}/match?match_id=pbOqhm-oY
 ```
