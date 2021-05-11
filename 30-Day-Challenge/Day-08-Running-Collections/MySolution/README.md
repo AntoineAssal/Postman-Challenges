@@ -3,7 +3,7 @@
 ## The BuildUp
 1. Add a request to get a random user and one test to determine if its successful.
 
-Created new request called `get random user` in the folder.
+Created new `GET` request called `get random user` in the folder.
 ```HTTPS
 https://randomuser.me/api
 ```
@@ -19,7 +19,7 @@ pm.test("Status code is 200", function () {
 <br>
 2. Now we want another request to get only one female user and test if its successful.
 
-Created new request called `get female user` in the folder.
+Created new `GET` request called `get female user` in the folder.
 ```HTTPS
 https://randomuser.me/api?gender=female
 ```
@@ -30,10 +30,10 @@ pm.test("Status code is 200", function () {
  pm.response.to.have.status(200);
 });
 ```
-
+<br>
 3. Now we want to get one user who is a female and french.
 
-Created new request called `get french user` in the folder.
+Created new `GET` request called `get french user` in the folder.
 
 ```HTTPS
 https://randomuser.me/api?gender=female&nat=FR
