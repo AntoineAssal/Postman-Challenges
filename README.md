@@ -20,9 +20,9 @@
 | 05- Variables                 |[Challenge](/30-Day-Challenge/Day-05-Variables/README.md) | ✔️ |[My Solution](/30-Day-Challenge/Day-05-Variables/MySolution/README.md) | Medium
 | 06- Tests                     |[Challenge](/30-Day-Challenge/Day-06-Tests/README.md) | ✔️ |[My Solution](/30-Day-Challenge/Day-06-Tests/MySolution/README.md) | Medium
 | 07- Debugging                 |[Challenge](/30-Day-Challenge/Day-07-Debugging/README.md) | ✔️ |[My Solution](/30-Day-Challenge/Day-07-Debugging/MySolution/README.md) | Easy
-| 08- Running Collections       |[Challenge](/30-Day-Challenge/Day-08-Running-Collections/README.md)| ❌ | |Medium
-| 09- Scripting                 |[Challenge](/30-Day-Challenge/Day-09-Scripting/README.md)| ❌ | | Medium
-| 10- Mock Servcies             |[Challenge](/30-Day-Challenge/Day-10-Mock-Services/README.md)| ❌ | | Easy
+| 08- Running Collections       |[Challenge](/30-Day-Challenge/Day-08-Running-Collections/README.md)| ✔️ |[My Solution](30-Day-Challenge/Day-08-Running-Collections/MySolution/README.md) |Medium
+| 09- Scripting                 |[Challenge](/30-Day-Challenge/Day-09-Scripting/README.md)| ✔️ |[My Solution](30-Day-Challenge/Day-09-Scripting/MySolution/README.md) | Medium
+| 10- Mock Servcies             |[Challenge](/30-Day-Challenge/Day-10-Mock-Services/README.md)| ✔️ |[My Solution](30-Day-Challenge/Day-10-Mock-Services/MySolution/README.md) | Easy
 | 11- Monitoring                |[Challenge](/30-Day-Challenge/Day-11-Monitoring/README.md) | ❌ | | Medium
 | 12- Postman API               |[Challenge](/30-Day-Challenge/Day-12-Postman-API/README.md) | ❌ | |Medium
 | 13- Newman                    |[Challenge](/30-Day-Challenge/Day-13-Newman/README.md) | ❌ | | Hard
