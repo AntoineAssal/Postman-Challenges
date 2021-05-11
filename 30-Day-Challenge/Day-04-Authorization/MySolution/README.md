@@ -3,10 +3,10 @@
 ## The BuildUp
 Basically demonstrating that you can setup the API key through various ways (through a header, through query params, helper that inserts in header, or inheritance).
 
-Prettty straightforward by following the documentation.
+Pretty straightforward by following the documentation.
 
 
-## Solution 
+## Solution
 
 ```HTTPS
 https://api.getpostman.com/collections/{{collection_uid}}

@@ -31,7 +31,7 @@ pm.test("Status code is 200", function () {
 });
 ```
 <br>
-3. Now we want to get one user who is a female and french.
+3. Now we want to get one user who is a female and French.
 
 Created new `GET` request called `get french user` in the folder.
 
@@ -46,7 +46,7 @@ pm.test("Status code is 200", function () {
 });
 ```
 
-## Solution 
+## Solution
 
 ```HTTPS
 https://api.getpostman.com/collections/{{collection_uid}}
