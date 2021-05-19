@@ -1,4 +1,4 @@
-# Day 11 : Monitoritn
+# Day 11 : Monitoring
 
 ## The BuildUp
 
